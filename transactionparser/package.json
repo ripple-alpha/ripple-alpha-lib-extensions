@@ -20,12 +20,12 @@
   ],
   "dependencies": {
     "bignumber.js": "^9.0.0",
+    "eslint": "^6.8.0",
     "lodash": "^4.17.15"
   },
   "devDependencies": {
     "assert-diff": "*",
     "coveralls": "^3.0.9",
-    "eslint": "6.1.0",
     "gulp": "^4.0.2",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^3.0.2",
